@@ -60,11 +60,12 @@ Future work could evaluate a larger sample, additional models, more difficult re
 
 ## Repository Contents
 
-- `report/` — full research report
-- `data/` — experimental questions and distractors
-- `results/` — raw model outputs and evaluation results
-- `figures/` — experiment visualizations
-- `notebooks/` — experiment and analysis code
+- [`report.pdf`](report.pdf) — full research report
+- [`data.csv`](data.csv) — experimental questions and distractors
+- [`results.csv`](results.csv) — raw model outputs and evaluation results
+- [`experiment.py`](experiment.py) — experiment and analysis code
+- [`requirements.txt`](requirements.txt) — Python dependencies
+- [`accuracy_by_distractor_position.png`](accuracy_by_distractor_position.png) — results visualization
 
 ## References
 
