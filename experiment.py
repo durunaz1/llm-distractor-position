@@ -16,7 +16,7 @@ from statsmodels.stats.contingency_tables import cochrans_q
 
 MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
 DATA_PATH = "data.csv"
-RESULTS_PATH = "results.csv"
+RESULTS_PATH = "raw_results.csv"
 
 MAX_NEW_TOKENS = 768
 
