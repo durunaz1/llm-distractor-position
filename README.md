@@ -62,7 +62,7 @@ Future work could evaluate a larger sample, additional models, more difficult re
 
 - [`report.pdf`](report.pdf) — full research report
 - [`data.csv`](data.csv) — experimental questions and distractors
-- [`results.csv`](results.csv) — raw model outputs and evaluation results
+- [`results.csv`](results.csv) — evaluation results across all experimental conditions
 - [`experiment.py`](experiment.py) — experiment and analysis code
 - [`requirements.txt`](requirements.txt) — Python dependencies
 - [`accuracy_by_distractor_position.png`](accuracy_by_distractor_position.png) — results visualization
